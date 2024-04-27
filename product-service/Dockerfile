@@ -9,5 +9,5 @@ RUN npm install
 COPY . .
 
 EXPOSE 3002
-
+# ll
 CMD [ "npm" , "run" , "dev" ]

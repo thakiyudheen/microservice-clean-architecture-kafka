@@ -9,6 +9,6 @@ RUN npm install
 COPY . .
 
 EXPOSE 3001
-# lala
+# lalasdf
 
 CMD [ "npm" , "run" , "dev" ]
